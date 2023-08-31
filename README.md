@@ -1,0 +1,2 @@
+# EasyInventoryManager
+Manage inventories easier
